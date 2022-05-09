@@ -4,8 +4,9 @@
 나의 구현 부분
 
  1. 관리자 페이지
- 2. header,sidebar 
- 3. project 통합 및 오류 수정
+ 2. header,sidebar ]
+ 3. SNS 로그인(카카오,구글,네이버)
+ 4. project 통합 및 오류 수정
 
  초기 구상
  
